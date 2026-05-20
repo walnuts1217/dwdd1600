@@ -1,0 +1,41 @@
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200;500&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200;500&display=swap" rel="stylesheet">
+    
+font-family: 'Montserrat Alternates', sans-serif;
+
+/*
+nav{
+   background-color: rgb(124, 193, 246);
+}
+
+
+nav ul{
+   margin:0;
+   padding: 10px;
+   list-style-type: none;
+   display: flex;
+}
+nav ul li{
+   margin:0;
+   padding: 0 10px;
+  
+  font-weight: 700;
+}
+
+nav a {
+   display: block;
+   padding: .2rem;
+   text-decoration: none;
+   font-size: 1.1rem;
+   
+}
+
+nav a:hover{
+   color: white;
+}
+
+nav li.stone a {
+  
+}
+*/

@@ -7,7 +7,7 @@
 
 
 header {
-   background-color: linear-gradient(to bottom, rgb(131, 126, 124),rgb(190,128,117);
+   background-color: rgb(131, 126, 124) ;
    padding: 1rem;
    margin:0;
 }
@@ -19,7 +19,7 @@ header span {
  }
 
  body{
-    background-color: linear-gradient(to bottom, rgb(190,128,117), rgb(131, 126, 124);
+    background-color: rgb(190,128,117) ;
      margin:0;
  }
 

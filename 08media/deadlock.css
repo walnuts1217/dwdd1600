@@ -47,11 +47,11 @@ header span {
     }
 
     nav .active a {
-     background-color: rgb(178, 91, 196);;
+     background-color: rgb(116, 82, 190);
     color: #ffffff;
     }
     nav a:hover {
-    background-color:  rgb(241, 201, 22);
+    background-color:  rgb(131, 126, 124);
     }
 
     } /* end small */
@@ -80,11 +80,11 @@ header span {
     }
 
     nav .active a {
-     background-color: rgb(178, 91, 196);;
+     background-color: rgb(116, 82, 190);
     color: #ffffff;
     }
     nav a:hover {
-    background-color:  rgb(241, 201, 22);
+    background-color:  rgb(131, 126, 124);
     }
 
     } /*end large*/
